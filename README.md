@@ -1,4 +1,4 @@
-## <h2 align="center"> Hi I'm GuL Muazzam Faize <img src="https://github.com/OleanjiKingCode/faize700/blob/master/Hi.gif" width="30" height="30"> </h2>
+## <h2 align="center"> Hi I'm Gul Muazzam Faize <img src="https://github.com/OleanjiKingCode/faize700/blob/master/Hi.gif" width="30" height="30"> </h2>
 
 - 🔭 I’m from India and i'm currently learning building Application (Centeralised and Decentralised)
 - 🌱 I’m currently learning Javascript and Blockchain development
